@@ -65,4 +65,14 @@ void display()
             cout << " -> ";
         }
     }
+    cout << endl;
+}
+
+void binarySearch()
+{
+    char ulang;
+    do 
+    {
+        
+    }
 }
